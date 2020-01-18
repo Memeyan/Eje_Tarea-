@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\BSM-2B\bin\Debug\BSM-2B.exe.config
+C:\Users\hp\Desktop\BSM-2B\bin\Debug\BSM-2B.exe
+C:\Users\hp\Desktop\BSM-2B\bin\Debug\BSM-2B.pdb
+C:\Users\hp\Desktop\BSM-2B\obj\Debug\BSM-2B.csprojAssemblyReference.cache
+C:\Users\hp\Desktop\BSM-2B\obj\Debug\BSM_2B.Form1.resources
+C:\Users\hp\Desktop\BSM-2B\obj\Debug\BSM_2B.Properties.Resources.resources
+C:\Users\hp\Desktop\BSM-2B\obj\Debug\BSM-2B.csproj.GenerateResource.cache
+C:\Users\hp\Desktop\BSM-2B\obj\Debug\BSM-2B.exe
+C:\Users\hp\Desktop\BSM-2B\obj\Debug\BSM-2B.pdb
